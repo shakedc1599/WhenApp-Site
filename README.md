@@ -29,6 +29,7 @@ for running the react client:
 3. open `http://localhost:3000/` with a browser
 4. change in ustils/globals the paths so servers:
    Server - [API server](https://github.com/shakedc1599/WhenApp-Server2)
+   
    ratingServer - [MVC server](https://github.com/shakedc1599/WhenApp-WebClient)
 - **to run 2 or more clients, run each in a separate browser because this app uses cookies**
 
