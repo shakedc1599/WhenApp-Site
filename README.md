@@ -7,7 +7,7 @@ we have created a site "inspired" by WhatsApp for multi platform communication.
 <img src="https://user-images.githubusercontent.com/92931230/164974175-2a0fd857-3ee9-4827-869b-dd7363a85131.png" width="1000">
 
 ### Development
-The web site was created using React JS, and server side using ASP.NET.
+This web site was created using React JS, and server side using ASP.NET.
 Also used axios and signalR libraries. 
 
 ### Features
@@ -17,22 +17,19 @@ Also used axios and signalR libraries.
 4. we have added a rating page.
 5. You can search ratings by name or by text.
 
-### Creators
-this site was created by noam cohen, shaked cohen and roi avraham.
-
 ## How To Run
 for this project you need to clone 3 repos:
-  1. [Web Site (react)] https://github.com/NoamCohen48/whenapp2.git
-  2. [Server (ASP WebAPI)] https://github.com/NoamCohen48/WhenApp3.git
-  3. [Rating page (ASP MVC)] https://github.com/Roi-Avraham/webClientEx2.git
+  1. [Web Site (react)](https://github.com/shakedc1599/WhenApp-Site)
+  2. [Server (ASP WebAPI)](https://github.com/shakedc1599/WhenApp-Server2)
+  3. [Rating page (ASP MVC)](https://github.com/shakedc1599/WhenApp-WebClient)
 
 for running the react client:
 1. install dependencies using `npm i`
 2. run site using `npm start`
 3. open `http://localhost:3000/` with a browser
 4. change in ustils/globals the paths so servers:
-   thisServer - API server (the server in https://github.com/NoamCohen48/WhenApp3.git)
-   ratingServer - MVC server (the server in https://github.com/Roi-Avraham/webClientEx2.git)
+   Server - API server (the server in https://github.com/shakedc1599/WhenApp-Server2))
+   ratingServer - MVC server (the server in https://github.com/shakedc1599/WhenApp-WebClient)
 - **to run 2 or more clients, run each in a separate browser because this app uses cookies**
 
 for running the api server:
