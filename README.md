@@ -1,4 +1,5 @@
 # WhenApp
+### This project was made by [Shaked Cohen](https://github.com/shakedc1599), [Noam Cohen](https://github.com/NoamCohen48) and [Roi Avraham](https://github.com/Roi-Avraham). :smiley:
 we have created a site "inspired" by WhatsApp for multi platform communication.
 
 ### Preview
